@@ -1,0 +1,6 @@
+fastapi==0.115.4
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+sqlalchemy==2.0.36
+python-multipart==0.0.9
+streamlit==1.39.0
